@@ -1,7 +1,7 @@
 # maze-pool
 Simple relaxing puzzle game
 
-This is a readme file until our website is ready
+This is a temporary readme file until our website is ready
 
 ## Contact Information
 
