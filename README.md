@@ -1,7 +1,8 @@
 # maze-pool
 Simple relaxing puzzle game
 
-## Contact Information
-Email: <alexandru.calauz@gmail.com>
+This is a readme file until our website is ready
 
-Note: This is a temporary page until our website is ready
+## Contact Information
+
+Email: <alexandru.calauz@gmail.com>
